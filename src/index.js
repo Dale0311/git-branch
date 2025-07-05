@@ -1,2 +1,4 @@
-const ver = 4;
+const ver = 5;
 console.log(ver);
+console.log('Bug Fixed');
+console.log('updated');
